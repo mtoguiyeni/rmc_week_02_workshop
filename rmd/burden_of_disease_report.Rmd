@@ -1,6 +1,6 @@
 ---
 title: "Global Disease Burden Analysis"
-author: "Seydou TOGUIYENI 2" # AUTHOR NAMES HERE!
+author: "Seydou TOGUIYENI" # AUTHOR NAMES HERE!
 output: github_document
 ---
 
